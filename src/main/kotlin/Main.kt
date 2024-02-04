@@ -62,4 +62,5 @@ fun main() {
     println("Televisions:")
     println("Preu base: $preuBaseTelevisions€")
     println("Preu final: $preuFinalTelevisions€")
+    println()
 }
